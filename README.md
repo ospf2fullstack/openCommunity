@@ -18,12 +18,17 @@ Some cool purpose I guess. But really, we're just nerds geeking out on this tech
 
 # Open Source Deployments
 1. [Static Website](/StaticWebsite/readme.md)
-2. Gitlab
-3. React App
-4. php Web App
-5. VPN
-6. Multi-Tenant VPN
-7. Home Assistant
+2. NetBox
+3. GNS3
+4. Eve-NG
+5. Moodle
+6. Gitlab
+7. 2-Tier Application (web/sql)
+8. SnipeIT
+9. UniFi Controller (protect?)
+10. VPN
+11. Multi-Tenant VPN
+12. Home Assistant
 
 ## Kubernetes Architecture
 
