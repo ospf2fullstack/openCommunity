@@ -26,9 +26,25 @@ Some cool purpose I guess. But really, we're just nerds geeking out on this tech
 7. 2-Tier Application (web/sql)
 8. SnipeIT
 9. UniFi Controller (protect?)
-10. VPN
-11. Multi-Tenant VPN
-12. Home Assistant
+10. Regscale
+11. Jenkins
+12. Prometheus/Grafana
+13. Jira
+14. Esasticsearch
+15. Terraform
+16. VPN
+17. Multi-Tenant VPN
+18. Home Assistant
+19. Duplicati
+20. Adminer
+21. ESPHome
+22. Nginx Proxy Manager
+23. Bitwarden
+24. AirConnect
+25. Samba
+26. Pi-hole
+27. Plex
+28. Homer
 
 ## Kubernetes Architecture
 
