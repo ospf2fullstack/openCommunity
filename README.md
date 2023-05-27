@@ -1,7 +1,8 @@
 - [openFactory](#openfactory)
   - [Purpose](#purpose)
+- [How to get started](#how-to-get-started)
+  - [Get Container Environments Configured](#get-container-environments-configured)
 - [Open Source Deployments](#open-source-deployments)
-  - [Kubernetes Architecture](#kubernetes-architecture)
 - [Contributors](#contributors)
   - [How to Contribute](#how-to-contribute)
   - [How you can contribute](#how-you-can-contribute)
@@ -13,6 +14,14 @@ Open Source Software Factory
 
 ## Purpose
 Some cool purpose I guess. But really, we're just nerds geeking out on this tech and trying to onboard more humans.
+
+# How to get started
+## Get Container Environments Configured 
+Setup your infrastructure, these are only suggestions: 
+1. K3S (raspberry pi edition)
+2. Docker Desktop
+3. AWS EKS
+4. Google Kubernetes Engine (GKE)
 
 ---
 
@@ -45,8 +54,6 @@ Some cool purpose I guess. But really, we're just nerds geeking out on this tech
 26. Pi-hole
 27. Plex
 28. Homer
-
-## Kubernetes Architecture
 
 ---
 
