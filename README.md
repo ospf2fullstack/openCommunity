@@ -1,4 +1,4 @@
-- [openFactory](#openfactory)
+- [openCommunity](#opencommunity)
   - [Purpose](#purpose)
 - [How to get started](#how-to-get-started)
   - [Get Container Environments Configured](#get-container-environments-configured)
@@ -9,8 +9,8 @@
 
 ---
 
-# openFactory
-Open Source Software Factory
+# openCommunity
+Open Source Software Deployment Community - engineers dedicated to deploying the worlds greatest software. 
 
 ## Purpose
 Some cool purpose I guess. But really, we're just nerds geeking out on this tech and trying to onboard more humans.
