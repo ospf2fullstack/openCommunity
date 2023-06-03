@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: baselinux_stor
+  namespace: baselinux
+  labels:
+    type: base
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      type: base
+  template:
+    metadata:
+      labels:
+        type: base
+    spec:
+      containers:
+        - name: baselinux_stor
+          image: ospf2fullstack/ubuntu_base # this doesn't exist yet, but will be with the dockerfile build
+          imagePullPolicy: Always
